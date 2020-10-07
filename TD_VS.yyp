@@ -1,7 +1,7 @@
 {
   "resources": [
     {"id":{"name":"Script2","path":"scripts/Script2/Script2.yy",},"order":0,},
-    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":2,},
+    {"id":{"name":"sTower","path":"sprites/sTower/sTower.yy",},"order":2,},
     {"id":{"name":"sStickman","path":"sprites/sStickman/sStickman.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
