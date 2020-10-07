@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"sTurds","path":"scripts/sTurds/sTurds.yy",},"order":0,},
+    {"id":{"name":"sTower","path":"sprites/sTower/sTower.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
