@@ -1,10 +1,19 @@
 {
   "resources": [
-    {"id":{"name":"sCat","path":"sprites/sCat/sCat.yy",},"order":3,},
-    {"id":{"name":"Script2","path":"scripts/Script2/Script2.yy",},"order":0,},
-    {"id":{"name":"sTower","path":"sprites/sTower/sTower.yy",},"order":2,},
-    {"id":{"name":"sStickman","path":"sprites/sStickman/sStickman.yy",},"order":1,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"sTiles","path":"sprites/sTiles/sTiles.yy",},"order":2,},
+    {"id":{"name":"oTower","path":"objects/oTower/oTower.yy",},"order":2,},
+    {"id":{"name":"rTestRoom","path":"rooms/rTestRoom/rTestRoom.yy",},"order":1,},
+    {"id":{"name":"sTower2","path":"sprites/sTower2/sTower2.yy",},"order":0,},
+    {"id":{"name":"sPigman","path":"sprites/sPigman/sPigman.yy",},"order":1,},
+    {"id":{"name":"sPigmanRun","path":"sprites/sPigmanRun/sPigmanRun.yy",},"order":0,},
+    {"id":{"name":"oGame","path":"objects/oGame/oGame.yy",},"order":1,},
+    {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"order":0,},
+    {"id":{"name":"rInit","path":"rooms/rInit/rInit.yy",},"order":2,},
+    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
+    {"id":{"name":"PlayerAnimateSprite","path":"scripts/PlayerAnimateSprite/PlayerAnimateSprite.yy",},"order":0,},
+    {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
+    {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},"order":2,},
+    {"id":{"name":"rParent","path":"rooms/rParent/rParent.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -18,7 +27,9 @@
     "children": [],
   },
   "RoomOrder": [
-    {"name":"Room1","path":"rooms/Room1/Room1.yy",},
+    {"name":"rInit","path":"rooms/rInit/rInit.yy",},
+    {"name":"rParent","path":"rooms/rParent/rParent.yy",},
+    {"name":"rTestRoom","path":"rooms/rTestRoom/rTestRoom.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -35,6 +46,9 @@
     {"folderPath":"folders/Animation Curves.yy","order":12,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Scripts/PlayerScripts.yy","order":1,"resourceVersion":"1.0","name":"PlayerScripts","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/Managers.yy","order":1,"resourceVersion":"1.0","name":"Managers","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Buildings.yy","order":3,"resourceVersion":"1.0","name":"Buildings","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
