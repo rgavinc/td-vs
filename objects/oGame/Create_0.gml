@@ -1,4 +1,4 @@
-//Initialize & Globals
+ //Initialize & Globals
 randomize();
 
 global.gamePaused = false;

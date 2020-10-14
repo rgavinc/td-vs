@@ -1,12 +1,15 @@
 {
   "resources": [
     {"id":{"name":"sGoatmanRun","path":"sprites/sGoatmanRun/sGoatmanRun.yy",},"order":4,},
+    {"id":{"name":"pEnemy","path":"paths/pEnemy/pEnemy.yy",},"order":0,},
     {"id":{"name":"sTiles","path":"sprites/sTiles/sTiles.yy",},"order":2,},
     {"id":{"name":"oTower","path":"objects/oTower/oTower.yy",},"order":2,},
     {"id":{"name":"rTestRoom","path":"rooms/rTestRoom/rTestRoom.yy",},"order":1,},
     {"id":{"name":"sTower2","path":"sprites/sTower2/sTower2.yy",},"order":0,},
     {"id":{"name":"sPigman","path":"sprites/sPigman/sPigman.yy",},"order":1,},
+    {"id":{"name":"oSpawn","path":"objects/oSpawn/oSpawn.yy",},"order":4,},
     {"id":{"name":"sPigmanRun","path":"sprites/sPigmanRun/sPigmanRun.yy",},"order":0,},
+    {"id":{"name":"oCompGoat","path":"objects/oCompGoat/oCompGoat.yy",},"order":3,},
     {"id":{"name":"oGame","path":"objects/oGame/oGame.yy",},"order":1,},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"order":0,},
     {"id":{"name":"rInit","path":"rooms/rInit/rInit.yy",},"order":2,},
