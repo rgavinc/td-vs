@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sTower",
-    "path": "sprites/sTower/sTower.yy",
+    "name": "sPigTower",
+    "path": "sprites/sPigTower/sPigTower.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":2,"eventType":3,"collisionObjectId":null,"parent":{"name":"oTower","path":"objects/oTower/oTower.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":2,"eventType":3,"collisionObjectId":null,"parent":{"name":"oPigTower","path":"objects/oPigTower/oPigTower.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oTower",
+  "name": "oPigTower",
   "tags": [],
   "resourceType": "GMObject",
 }
