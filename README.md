@@ -6,6 +6,7 @@ Tower Defense game using Game Maker Studio 2
 - create second room for attacking
 - mini map to plot out path
 - arrows that fire from towers
+- unit death animations
 - ghost tower icon
 - determine what activity both players will experience during fight
 
