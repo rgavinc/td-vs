@@ -1,5 +1,6 @@
-path_start(pEnemy, global.spd,0,false);
 hp = global.hp;
+paths = global.paths
+pathNum = 0;
 
 image_speed = 0;
 hSpeed = 0;

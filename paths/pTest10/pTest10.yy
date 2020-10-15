@@ -3,15 +3,15 @@
   "closed": false,
   "precision": 4,
   "points": [
+    {"speed":100.0,"x":416.0,"y":464.0,},
     {"speed":100.0,"x":416.0,"y":576.0,},
-    {"speed":100.0,"x":224.0,"y":576.0,},
   ],
   "parent": {
-    "name": "Paths",
-    "path": "folders/Paths.yy",
+    "name": "testRoomPaths",
+    "path": "folders/Paths/testRoomPaths.yy",
   },
   "resourceVersion": "1.0",
-  "name": "pTestRoom3",
+  "name": "pTest10",
   "tags": [],
   "resourceType": "GMPath",
 }

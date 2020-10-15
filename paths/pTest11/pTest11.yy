@@ -3,17 +3,16 @@
   "closed": false,
   "precision": 4,
   "points": [
-    {"speed":100.0,"x":1296.0,"y":144.0,},
-    {"speed":100.0,"x":224.0,"y":144.0,},
+    {"speed":100.0,"x":416.0,"y":464.0,},
+    {"speed":100.0,"x":416.0,"y":368.0,},
     {"speed":100.0,"x":224.0,"y":368.0,},
-    {"speed":100.0,"x":-16.0,"y":368.0,},
   ],
   "parent": {
-    "name": "Paths",
-    "path": "folders/Paths.yy",
+    "name": "testRoomPaths",
+    "path": "folders/Paths/testRoomPaths.yy",
   },
   "resourceVersion": "1.0",
-  "name": "pEnemy",
+  "name": "pTest11",
   "tags": [],
   "resourceType": "GMPath",
 }
