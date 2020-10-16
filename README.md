@@ -16,6 +16,7 @@ Strategy is really important in this game. You will need to be smart about where
 - unit death animations
 - ghost tower icon
 - determine what activity both players will experience during fight
+- come up with name for the game
 
 ## Things to do post alpha:
 - allow vs 2 human players
