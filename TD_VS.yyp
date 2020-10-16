@@ -19,6 +19,7 @@
     {"id":{"name":"sGoatTower","path":"sprites/sGoatTower/sGoatTower.yy",},"order":2,},
     {"id":{"name":"pTest4","path":"paths/pTest4/pTest4.yy",},"order":13,},
     {"id":{"name":"sPigmanRun","path":"sprites/sPigmanRun/sPigmanRun.yy",},"order":0,},
+    {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},"order":15,},
     {"id":{"name":"pTest11","path":"paths/pTest11/pTest11.yy",},"order":10,},
     {"id":{"name":"oCompGoat","path":"objects/oCompGoat/oCompGoat.yy",},"order":3,},
     {"id":{"name":"oPigTower","path":"objects/oPigTower/oPigTower.yy",},"order":5,},
