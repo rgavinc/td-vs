@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-spawn_amount = 5;
+spawn_amount = 10;
 spawn_count = 0;
-spawn_rate = 3 * room_speed;
+spawn_rate = 2 * room_speed;
 alarm[0] = 1;
 
 global.hp = 100;

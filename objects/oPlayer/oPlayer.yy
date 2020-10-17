@@ -1,13 +1,13 @@
 {
   "spriteId": {
-    "name": "sPigman",
-    "path": "sprites/sPigman/sPigman.yy",
+    "name": "sPigmanDeath",
+    "path": "sprites/sPigmanDeath/sPigmanDeath.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": {
-    "name": "sPigman",
-    "path": "sprites/sPigman/sPigman.yy",
+    "name": "sPigmanDeath",
+    "path": "sprites/sPigmanDeath/sPigmanDeath.yy",
   },
   "persistent": false,
   "parentObjectId": null,
