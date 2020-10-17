@@ -14,6 +14,6 @@ if (en != noone) {
 		draw_line(x,y,en.x,en.y);
 	} else {
 		shooting = false;
-		objecToShoot = noone;
+		objectToShoot = noone;
 	}
 }

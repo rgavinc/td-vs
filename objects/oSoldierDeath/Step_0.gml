@@ -1,0 +1,12 @@
+sprite_index = spriteDeath;
+
+	//Update Sprite
+	var _totalFrames = sprite_get_number(sprite_index) /4;
+	image_index = localFrame + (CARDINAL_DIR * _totalFrames);
+	//localFrame += sprite_get_speed(sprite_index) /FRAME_RATE;
+	
+if (localFrame <= _totalFrames -1)
+	{
+		localFrame += sprite_get_speed(sprite_index) /FRAME_RATE;
+	}
+	

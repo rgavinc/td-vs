@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sPigman",
-    "path": "sprites/sPigman/sPigman.yy",
+    "name": "sPigmanDeath",
+    "path": "sprites/sPigmanDeath/sPigmanDeath.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,8 +21,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"oBasicSoldier","path":"objects/oBasicSoldier/oBasicSoldier.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"oBasicSoldier","path":"objects/oBasicSoldier/oBasicSoldier.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"oSoldierDeath","path":"objects/oSoldierDeath/oSoldierDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"oSoldierDeath","path":"objects/oSoldierDeath/oSoldierDeath.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oBasicSoldier",
+  "name": "oSoldierDeath",
   "tags": [],
   "resourceType": "GMObject",
 }
