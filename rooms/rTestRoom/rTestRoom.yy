@@ -37,6 +37,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"oBasicTower","path":"objects/oBasicTower/oBasicTower.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":696.0,"y":408.0,"resourceVersion":"1.0","name":"inst_5C5496AD","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oBasicTower","path":"objects/oBasicTower/oBasicTower.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":896.0,"y":304.0,"resourceVersion":"1.0","name":"inst_7CB8423C","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oBasicTower","path":"objects/oBasicTower/oBasicTower.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":640.0,"y":280.0,"resourceVersion":"1.0","name":"inst_29503B76","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"oShroud","path":"objects/oShroud/oShroud.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":312.0,"y":56.0,"resourceVersion":"1.0","name":"inst_6C77C697","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":true,"inheritLayerSettings":false,"gridX":8,"gridY":8,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"pathId":{"name":"pTestRoom","path":"paths/pTestRoom/pTestRoom.yy",},"colour":4278190335,"visible":false,"depth":1400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":true,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"pEnemy","tags":[],"resourceType":"GMRPathLayer",},
     {"tilesetId":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":80,"SerialiseHeight":45,"TileSerialiseData":[
@@ -99,6 +100,7 @@
     {"name":"inst_5C5496AD","path":"rooms/rTestRoom/rTestRoom.yy",},
     {"name":"inst_7CB8423C","path":"rooms/rTestRoom/rTestRoom.yy",},
     {"name":"inst_29503B76","path":"rooms/rTestRoom/rTestRoom.yy",},
+    {"name":"inst_6C77C697","path":"rooms/rTestRoom/rTestRoom.yy",},
   ],
   "inheritCreationOrder": true,
   "sequenceId": null,
