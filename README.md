@@ -13,7 +13,7 @@ Strategy is really important in this game. You will need to be smart about where
 - create second room for attacking
 - mini map to plot out path
 - arrows that fire from towers
-- unit death animations
+- ~~unit death animations~~
 - ghost tower icon
 - determine what activity both players will experience during fight
 - come up with name for the game
