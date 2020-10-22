@@ -14,6 +14,7 @@
     {"id":{"name":"sTower","path":"sprites/sTower/sTower.yy",},"order":0,},
     {"id":{"name":"pTest7","path":"paths/pTest7/pTest7.yy",},"order":6,},
     {"id":{"name":"pTest10","path":"paths/pTest10/pTest10.yy",},"order":9,},
+    {"id":{"name":"sGoatmanDeath","path":"sprites/sGoatmanDeath/sGoatmanDeath.yy",},"order":8,},
     {"id":{"name":"sPigmanDeath","path":"sprites/sPigmanDeath/sPigmanDeath.yy",},"order":1,},
     {"id":{"name":"sLightEffect","path":"sprites/sLightEffect/sLightEffect.yy",},"order":9,},
     {"id":{"name":"pTest5","path":"paths/pTest5/pTest5.yy",},"order":4,},
