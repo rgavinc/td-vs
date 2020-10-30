@@ -16,8 +16,8 @@ if(path_index = -1 && pathNum < array_length(paths)){
 //Death
 if(hp <= 0)
 {
-	instDeath = instance_create_depth(x,y,1,oSoldierDeath);
-with (instDeath)
+	var instDeath = instance_create_depth(x,y,1,oSoldierDeath);
+	with (instDeath)
 	{
 	direction = other.direction;
 	};
