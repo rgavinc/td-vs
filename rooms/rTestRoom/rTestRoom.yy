@@ -31,7 +31,6 @@
     {"pathId":{"name":"pTest1","path":"paths/pTest1/pTest1.yy",},"colour":4278190335,"visible":true,"depth":1200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Path_1","tags":[],"resourceType":"GMRPathLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":{"name":"inst_38338C73","path":"rooms/rParent/rParent.yy",},"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1160.0,"y":280.0,"resourceVersion":"1.0","name":"inst_38338C73","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"oSpawnTest","path":"objects/oSpawnTest/oSpawnTest.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1320.0,"y":136.0,"resourceVersion":"1.0","name":"inst_391D74D","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oBasicTower","path":"objects/oBasicTower/oBasicTower.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1080.0,"y":200.0,"resourceVersion":"1.0","name":"inst_212D8DE2","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oBasicTower","path":"objects/oBasicTower/oBasicTower.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":704.0,"y":104.0,"resourceVersion":"1.0","name":"inst_66AD3ACA","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oBasicTower","path":"objects/oBasicTower/oBasicTower.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":696.0,"y":408.0,"resourceVersion":"1.0","name":"inst_5C5496AD","tags":[],"resourceType":"GMRInstance",},
@@ -93,7 +92,6 @@
   "creationCodeFile": "",
   "inheritCode": true,
   "instanceCreationOrder": [
-    {"name":"inst_391D74D","path":"rooms/rTestRoom/rTestRoom.yy",},
     {"name":"inst_38338C73","path":"rooms/rTestRoom/rTestRoom.yy",},
     {"name":"inst_212D8DE2","path":"rooms/rTestRoom/rTestRoom.yy",},
     {"name":"inst_66AD3ACA","path":"rooms/rTestRoom/rTestRoom.yy",},
