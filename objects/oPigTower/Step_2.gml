@@ -1,6 +1,2 @@
 //Depth sort
-
-if (!global.gamePaused)
-{
-	depth = -bbox_bottom;
-}
+depth = -bbox_bottom;
