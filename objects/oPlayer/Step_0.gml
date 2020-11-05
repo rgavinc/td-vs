@@ -10,12 +10,15 @@ keyboard_check_pressed(ord("P"));
 inputDirection = point_direction(0,0,keyRight-keyLeft,keyDown-keyUp);
 inputMagnitude = (keyRight-keyLeft != 0) || (keyDown-keyUp != 0);
 
+
 //Movement
 hSpeed = lengthdir_x(inputMagnitude * speedWalk, inputDirection);
 vSpeed = lengthdir_y(inputMagnitude * speedWalk, inputDirection);
 
-x += hSpeed;
-y += vSpeed;
+if(global.gameStarted){
+	x += hSpeed;
+	y += vSpeed;
+}
 
 //Update Sprite Index
 var _oldSprite = sprite_index;
