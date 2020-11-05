@@ -26,8 +26,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Towers",
-    "path": "folders/Objects/Towers.yy",
+    "name": "Tower Assets",
+    "path": "folders/Objects/Tower Assets.yy",
   },
   "resourceVersion": "1.0",
   "name": "oGoatTower",

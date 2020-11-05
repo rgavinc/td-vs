@@ -192,8 +192,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"57ae93ac-883c-4ef0-af61-026112b26af1","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Goat Sprites",
+    "path": "folders/Sprites/Goat Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "sGoatmanRun",

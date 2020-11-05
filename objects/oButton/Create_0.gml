@@ -6,3 +6,5 @@ text = "Click here";
 hover = 0;
 
 script = -1;
+
+global.gameStarted = false;

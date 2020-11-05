@@ -6,4 +6,5 @@ y = lerp(y, ystart - _hover * 8, 0.1);
 
 if (_click && script >= 0) {
  	script_execute(script);	
+	global.gameStarted = true;
 }
