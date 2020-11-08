@@ -3,5 +3,6 @@
 function create_spawn(){
 	// TODO: used passed in values instead
 	instance_create_depth(1320, 136, -1, oSpawnTest);
+	global.currentGameState = gameState.play;
 	instance_destroy(oButton);
 }
