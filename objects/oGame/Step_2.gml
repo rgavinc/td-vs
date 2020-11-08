@@ -5,16 +5,19 @@ if (keyboard_check_pressed(vk_tab)) {
 			global.currentGameState = gameState.pause;
 			with (all) {
 				gamePausedImageSpeed = image_speed;
+				gamePausedSpeed = speed;
 				gamePausedPathSpeed = path_speed;
 				image_speed = 0;
 				path_speed = 0;
+				speed = 0;
 			} 
 			break;          
 		case gameState.pause:
 			global.currentGameState = gameState.play;
 			with (all) {
-				if !is_undefined(gamePausedImageSpeed) image_speed = gamePausedImageSpeed;
-				if !is_undefined(gamePausedPathSpeed) path_speed = gamePausedPathSpeed;
+				if (!is_undefined(gamePausedImageSpeed)) image_speed = gamePausedImageSpeed;
+				if (!is_undefined(gamePausedPathSpeed)) path_speed = gamePausedPathSpeed;
+				if (!is_undefined(gamePausedSpeed)) speed = gamePausedSpeed;
 			}
 			break;
 	}        
