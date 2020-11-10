@@ -15,11 +15,6 @@ inputMagnitude = (keyRight-keyLeft != 0) || (keyDown-keyUp != 0);
 hSpeed = lengthdir_x(inputMagnitude * speedWalk, inputDirection);
 vSpeed = lengthdir_y(inputMagnitude * speedWalk, inputDirection);
 
-if(global.gameStarted){
-	x += hSpeed;
-	y += vSpeed;
-}
-
 //Update Sprite Index
 var _oldSprite = sprite_index;
 	if (inputMagnitude != 0)
@@ -32,8 +27,14 @@ var _oldSprite = sprite_index;
 //Update Image Index
 PlayerAnimateSprite();
 
-//Update Depth
-if (!global.gamePaused)
-{
-	depth = -bbox_bottom;
-}
+switch (global.currentGameState) { 
+	case gameState.play:
+		x += hSpeed;
+		y += vSpeed;
+		break;
+	default:
+		depth = -bbox_bottom;
+		break;
+};
+
+
