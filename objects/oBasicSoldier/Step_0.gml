@@ -3,15 +3,9 @@ sprite_index = spriteRun;
 switch (global.currentGameState) {
 	case gameState.pause:
 		timeline_running = false;
-		//path_speed = 0;
-		depth = -bbox_bottom;
-		//image_speed = 0;
 		break;
 	case gameState.play:
 		timeline_running = true;
-		//path_speed = global.spd;
-		//image_speed = 0;
-		sprite_index = spriteRun;
 		
 		PlayerAnimateSprite(); 
 

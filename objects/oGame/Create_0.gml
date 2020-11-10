@@ -18,7 +18,7 @@ enum gameState {
 };
 
 enum phaseState {
-	attack,
+	attack, 
 	defend
 };
 

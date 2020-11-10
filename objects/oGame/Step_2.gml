@@ -5,10 +5,11 @@ if (keyboard_check_pressed(vk_tab)) {
 			// go from play to pause
 			global.currentGameState = gameState.pause;
 			with (all) {
-				depth = -bbox_bottom;
+				gamePausedImageDepth = depth;
 				gamePausedImageSpeed = image_speed;
 				gamePausedSpeed = speed;
 				gamePausedPathSpeed = path_speed;
+				depth = -bbox_bottom;
 				image_speed = 0;
 				path_speed = 0;
 				speed = 0;
@@ -21,6 +22,7 @@ if (keyboard_check_pressed(vk_tab)) {
 				if (!is_undefined(gamePausedImageSpeed)) image_speed = gamePausedImageSpeed;
 				if (!is_undefined(gamePausedPathSpeed)) path_speed = gamePausedPathSpeed;
 				if (!is_undefined(gamePausedSpeed)) speed = gamePausedSpeed;
+				if (!is_undefined(gamePausedImageDepth)) depth = gamePausedImageDepth;
 			}
 			break;
 	}        
