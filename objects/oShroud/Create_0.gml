@@ -7,7 +7,7 @@ depth = -1000;
 
 switch (global.currentPhaseState) {
 	case phaseState.attack:
-		visible = true;
+		visible = false;
 		break;
 	case phaseState.defend:
 		visible = false;
