@@ -1,4 +1,10 @@
 //Set Up Camera
-cam = view_camera[0];
-viewWidthHalf = camera_get_view_width(cam) * 0.5;
-viewHeightHalf = camera_get_view_height(cam) * 0.5;
+view_width=1920/6;
+view_height=1080/6
+
+window_scale=3;
+
+window_set_size(view_width*window_scale,view_height*window_scale);
+alarm[0] = 1;
+
+surface_resize(application_surface,view_width*window_scale,view_height*window_scale);
