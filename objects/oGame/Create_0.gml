@@ -25,5 +25,3 @@ enum phaseState {
 
 global.currentGameState = gameState.start;
 global.currentPhaseState = phaseState.defend;
-
-global.buildZones = [{x: 1230, y: 175} , {x:1040, y:175}, {x: 1230, y: 270} , {x:1040, y:270}]

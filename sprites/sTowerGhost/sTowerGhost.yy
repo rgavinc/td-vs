@@ -1,5 +1,5 @@
 {
-  "bboxMode": 0,
+  "bboxMode": 2,
   "collisionKind": 1,
   "type": 0,
   "origin": 9,
@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 47,
-  "bbox_top": 1,
-  "bbox_bottom": 95,
+  "bbox_left": 22,
+  "bbox_right": 25,
+  "bbox_top": 82,
+  "bbox_bottom": 86,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -27,6 +27,9 @@
     {"compositeImage":{"FrameId":{"name":"6887163d-3632-4d63-b570-4f30a4f13dcb","path":"sprites/sTowerGhost/sTowerGhost.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"6887163d-3632-4d63-b570-4f30a4f13dcb","path":"sprites/sTowerGhost/sTowerGhost.yy",},"LayerId":{"name":"62c4e72c-c13f-4d47-b454-a5d17cc24199","path":"sprites/sTowerGhost/sTowerGhost.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"sTowerGhost","path":"sprites/sTowerGhost/sTowerGhost.yy",},"resourceVersion":"1.0","name":"6887163d-3632-4d63-b570-4f30a4f13dcb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"af6391fc-fa46-4b6b-88a7-9c7a27a8bce4","path":"sprites/sTowerGhost/sTowerGhost.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"af6391fc-fa46-4b6b-88a7-9c7a27a8bce4","path":"sprites/sTowerGhost/sTowerGhost.yy",},"LayerId":{"name":"62c4e72c-c13f-4d47-b454-a5d17cc24199","path":"sprites/sTowerGhost/sTowerGhost.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sTowerGhost","path":"sprites/sTowerGhost/sTowerGhost.yy",},"resourceVersion":"1.0","name":"af6391fc-fa46-4b6b-88a7-9c7a27a8bce4","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"sTowerGhost","path":"sprites/sTowerGhost/sTowerGhost.yy",},
@@ -36,12 +39,13 @@
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 1.0,
+    "length": 2.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"c49aa9bb-798b-4412-b0f7-be44a3df97a4","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6887163d-3632-4d63-b570-4f30a4f13dcb","path":"sprites/sTowerGhost/sTowerGhost.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0ab5f85e-ffca-4fd9-bb2a-c2093faf607e","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"af6391fc-fa46-4b6b-88a7-9c7a27a8bce4","path":"sprites/sTowerGhost/sTowerGhost.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
