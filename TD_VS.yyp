@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"sGoatmanRun","path":"sprites/sGoatmanRun/sGoatmanRun.yy",},"order":2,},
+    {"id":{"name":"oBuildZone","path":"objects/oBuildZone/oBuildZone.yy",},"order":12,},
     {"id":{"name":"sTowerGhost","path":"sprites/sTowerGhost/sTowerGhost.yy",},"order":3,},
     {"id":{"name":"pTestRoom","path":"paths/pTestRoom/pTestRoom.yy",},"order":0,},
     {"id":{"name":"sPigTower","path":"sprites/sPigTower/sPigTower.yy",},"order":1,},
@@ -12,6 +13,7 @@
     {"id":{"name":"sTiles","path":"sprites/sTiles/sTiles.yy",},"order":2,},
     {"id":{"name":"oBasicTower","path":"objects/oBasicTower/oBasicTower.yy",},"order":2,},
     {"id":{"name":"rTestRoomDefend","path":"rooms/rTestRoomDefend/rTestRoomDefend.yy",},"order":1,},
+    {"id":{"name":"sBuildZone","path":"sprites/sBuildZone/sBuildZone.yy",},"order":12,},
     {"id":{"name":"sTower","path":"sprites/sTower/sTower.yy",},"order":0,},
     {"id":{"name":"oTowerGhost","path":"objects/oTowerGhost/oTowerGhost.yy",},"order":3,},
     {"id":{"name":"pTest7","path":"paths/pTest7/pTest7.yy",},"order":6,},
