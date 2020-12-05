@@ -3,7 +3,7 @@ randomize();
  
 alarm[0] = 1
 
-global.iCamera = instance_create_layer(0,0,layer,oCamera);
+// global.iCamera = instance_create_layer(0,0,layer,oCamera);
 
 room_goto(ROOM_DEFEND);
 
