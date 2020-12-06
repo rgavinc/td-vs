@@ -33,7 +33,6 @@
     {"id":{"name":"sArrow","path":"sprites/sArrow/sArrow.yy",},"order":6,},
     {"id":{"name":"sBlackPixel","path":"sprites/sBlackPixel/sBlackPixel.yy",},"order":8,},
     {"id":{"name":"pTest11","path":"paths/pTest11/pTest11.yy",},"order":10,},
-    {"id":{"name":"rTestRoomAttack","path":"rooms/rTestRoomAttack/rTestRoomAttack.yy",},"order":3,},
     {"id":{"name":"oBasicSoldier","path":"objects/oBasicSoldier/oBasicSoldier.yy",},"order":3,},
     {"id":{"name":"oPigTower","path":"objects/oPigTower/oPigTower.yy",},"order":1,},
     {"id":{"name":"oGame","path":"objects/oGame/oGame.yy",},"order":1,},
@@ -72,7 +71,6 @@
     {"name":"rInit","path":"rooms/rInit/rInit.yy",},
     {"name":"rParent","path":"rooms/rParent/rParent.yy",},
     {"name":"rTestRoomDefend","path":"rooms/rTestRoomDefend/rTestRoomDefend.yy",},
-    {"name":"rTestRoomAttack","path":"rooms/rTestRoomAttack/rTestRoomAttack.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

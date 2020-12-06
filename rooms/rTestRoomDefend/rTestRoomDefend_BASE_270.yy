@@ -87,8 +87,8 @@
   "creationCodeFile": "",
   "inheritCode": true,
   "instanceCreationOrder": [
-    {"name":"inst_38338C73","path":"rooms/rTestRoom/rTestRoom.yy",},
-    {"name":"inst_6C77C697","path":"rooms/rTestRoom/rTestRoom.yy",},
+    {"name":"inst_38338C73","path":"rooms/rTestRoomDefend/rTestRoomDefend.yy",},
+    {"name":"inst_6C77C697","path":"rooms/rTestRoomDefend/rTestRoomDefend.yy",},
   ],
   "inheritCreationOrder": true,
   "sequenceId": null,
@@ -116,7 +116,7 @@
     "path": "folders/Rooms.yy",
   },
   "resourceVersion": "1.0",
-  "name": "rTestRoom",
+  "name": "rTestRoomDefend",
   "tags": [],
   "resourceType": "GMRoom",
 }

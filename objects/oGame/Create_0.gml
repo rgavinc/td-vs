@@ -5,7 +5,8 @@ alarm[0] = 1
 
 // global.iCamera = instance_create_layer(0,0,layer,oCamera);
 
-room_goto(ROOM_DEFEND);
+room_goto(ROOM_PLAYER);
+
 
 //Keeps track of tower placement mode status
 global.dragTower = false;
