@@ -15,5 +15,6 @@ if (can_build) {
 		global.dragTower = false;
 	}
 	instance_create_depth(x, y, -8, oBasicTower);
+	ds_map_replace(global.player_data_self, "gold",gold_available - cost);
 	with (other) instance_destroy();
 }

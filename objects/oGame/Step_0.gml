@@ -15,3 +15,5 @@ if (global.currentGameState == gameState.play && global.enemies_remaining < 1) {
 			break;
 	}
 }
+
+draw_text(50, 50, "TEST, A BLOODY TEST");

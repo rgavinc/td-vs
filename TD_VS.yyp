@@ -9,6 +9,7 @@
     {"id":{"name":"oShroud","path":"objects/oShroud/oShroud.yy",},"order":2,},
     {"id":{"name":"pTest8","path":"paths/pTest8/pTest8.yy",},"order":7,},
     {"id":{"name":"pTest9","path":"paths/pTest9/pTest9.yy",},"order":8,},
+    {"id":{"name":"create_player_ds_map","path":"scripts/create_player_ds_map/create_player_ds_map.yy",},"order":7,},
     {"id":{"name":"pTest13","path":"paths/pTest13/pTest13.yy",},"order":15,},
     {"id":{"name":"sTiles","path":"sprites/sTiles/sTiles.yy",},"order":2,},
     {"id":{"name":"oBasicTower","path":"objects/oBasicTower/oBasicTower.yy",},"order":2,},

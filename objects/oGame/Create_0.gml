@@ -7,6 +7,8 @@ alarm[0] = 1
 
 room_goto(ROOM_PLAYER);
 
+global.player_data_self = create_player_ds_map();
+global.player_data_enemy = create_player_ds_map();
 
 //Keeps track of tower placement mode status
 global.dragTower = false;
