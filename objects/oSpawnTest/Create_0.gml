@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-spawn_amount = 8;
+spawn_amount = 1;
 spawn_count = 0;
 
 spawn_rate = 2 * room_speed;
