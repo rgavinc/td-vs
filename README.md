@@ -10,15 +10,23 @@ Strategy is really important in this game. You will need to be smart about where
 
 ## Things to do alpha:
 - ~~create initial path and have computer go down it~~
-- create second room for attacking
-- mini map to plot out path
-- arrows that fire from towers
+- ~~create second room for attacking
+- display money
+- better camera
+- create arrow. Selected and non selected variations. Allow for the fill to be a different levels
+- create barn
+- ~~arrows that fire from towers
 - ~~unit death animations~~
-- ghost tower icon
+- ~~ghost tower icon
 - determine what activity both players will experience during fight
 - come up with name for the game
 
 ## Things to do post alpha:
 - allow vs 2 human players
+
+## Options for attacking
+We will have waves. Each round will have an increased amount of infantry. We will show arrows on the map that allows users to choose the path for a particular wave. The arrow will be highlighted to show the selected direction to follow in a particular intersection. The arrow slowly fills up so you know how much time you have to commit to a particular path.
+1. Adjust route as you go.
+2. Plan the wave route ahead of time.
 
 
