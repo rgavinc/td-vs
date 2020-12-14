@@ -10,14 +10,14 @@ Strategy is really important in this game. You will need to be smart about where
 
 ## Things to do alpha:
 - ~~create initial path and have computer go down it~~
-- ~~create second room for attacking
+- ~~create second room for attacking~~
 - display money
 - better camera
 - create arrow. Selected and non selected variations. Allow for the fill to be a different levels
 - create barn
-- ~~arrows that fire from towers
+- ~~arrows that fire from towers~~
 - ~~unit death animations~~
-- ~~ghost tower icon
+- ~~ghost tower icon~~
 - determine what activity both players will experience during fight
 - come up with name for the game
 
