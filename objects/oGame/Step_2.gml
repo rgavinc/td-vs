@@ -30,10 +30,19 @@ if (keyboard_check_pressed(vk_tab)) {
 
 switch (global.currentGameState) {
 	case gameState.pause:
-	with (all) {
-		for (i = 0; i < 12; i++) {
-			if (alarm[i] > -1) alarm[i]++;
+		with (all) {
+			for (i = 0; i < 12; i++) {
+				if (alarm[i] > -1) alarm[i]++;
+			}
 		}
-	}
-	break;
+		break;
+	case gameState.play:
+		if (global.currentPhaseState == phaseState.attack) {
+			var _enemy_gold_available = global.player_data_enemy[? "gold"];
+			show_debug_message(_enemy_gold_available)
+			if (_enemy_gold_available >= 20) {
+				var _random_build_zone = get_random_build_zone();
+				if (_random_build_zone != -1) create_tower(_random_build_zone, global.player_data_enemy);
+			}
+		}
 }
