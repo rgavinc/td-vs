@@ -37,6 +37,7 @@
     {"id":{"name":"wave","path":"scripts/wave/wave.yy",},"order":9,},
     {"id":{"name":"sBlackPixel","path":"sprites/sBlackPixel/sBlackPixel.yy",},"order":8,},
     {"id":{"name":"pTest11","path":"paths/pTest11/pTest11.yy",},"order":10,},
+    {"id":{"name":"Script11","path":"scripts/Script11/Script11.yy",},"order":11,},
     {"id":{"name":"oBasicSoldier","path":"objects/oBasicSoldier/oBasicSoldier.yy",},"order":3,},
     {"id":{"name":"oDirectionArrow","path":"objects/oDirectionArrow/oDirectionArrow.yy",},"order":13,},
     {"id":{"name":"oPigTower","path":"objects/oPigTower/oPigTower.yy",},"order":1,},

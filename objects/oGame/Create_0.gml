@@ -29,3 +29,4 @@ enum phaseState {
 
 global.currentGameState = gameState.start;
 global.currentPhaseState = phaseState.defend;
+
