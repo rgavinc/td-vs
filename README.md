@@ -13,7 +13,8 @@ Strategy is really important in this game. You will need to be smart about where
 - ~~create second room for attacking~~
 - display money
 - better camera
-- create arrow. Selected and non selected variations. Allow for the fill to be a different levels
+- ~~create arrow. Selected and non selected variations.~~
+- Allow for the fill to be a different levels for direction arrow
 - create barn
 - ~~arrows that fire from towers~~
 - ~~unit death animations~~
