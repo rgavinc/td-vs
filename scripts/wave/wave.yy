@@ -6,7 +6,7 @@
     "path": "folders/Scripts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "PlayerAnimateSprite",
+  "name": "wave",
   "tags": [],
   "resourceType": "GMScript",
 }
