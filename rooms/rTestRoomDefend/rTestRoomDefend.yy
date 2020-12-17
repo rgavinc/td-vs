@@ -99,8 +99,8 @@
     {"pathId":{"name":"pTestRoom","path":"paths/pTestRoom/pTestRoom.yy",},"colour":4278190335,"visible":false,"depth":1400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":true,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"pEnemy","tags":[],"resourceType":"GMRPathLayer",},
   ],
   "inheritLayers": true,
-  "creationCodeFile": "",
-  "inheritCode": true,
+  "creationCodeFile": "${project_dir}/rooms/rTestRoomDefend/RoomCreationCode.gml",
+  "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_6C77C697","path":"rooms/rTestRoomDefend/rTestRoomDefend.yy",},
     {"name":"inst_39157095","path":"rooms/rTestRoomDefend/rTestRoomDefend.yy",},
